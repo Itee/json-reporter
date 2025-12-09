@@ -1,5 +1,5 @@
 {
-  "name": "json-reporter",
+  "name": "@itee/json-reporter",
   "version": "1.0.1",
   "description": "A custom json reporter for @web/test-runner use in various Itee projects",
   "keywords": [
