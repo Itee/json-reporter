@@ -1,3 +1,5 @@
+# [v1.0.3](https://github.com/Itee/json-reporter/compare/v1.0.2...v1.0.3) (2026-01-15)
+
 # [v1.0.2](https://github.com/Itee/json-reporter/compare/v1.0.1...v1.0.2) (2025-12-09)
 
 ## 🐛 Bug Fixes
